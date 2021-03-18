@@ -1,0 +1,52 @@
+@charset "ISO-8859-1";
+
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #333;
+}
+
+li {
+  float: left;
+}
+
+a.name{
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+
+h1 {
+	padding-left: 50px;
+}
+
+h3 {
+	padding-left: 50px;
+}
+
+
+#subheading4 {
+	margin: 40px;
+}
+
+.subheading3 {
+	opacity: 0.8;
+	margin-left: 20px;
+	float: left;
+}
+
+#subheadingh3
+{
+	
+	margin-left:50px;
+	float:left;
+}
+
+
+
+	
